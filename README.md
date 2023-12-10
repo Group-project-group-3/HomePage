@@ -1,2 +1,2 @@
 # HomePage
-Making HomePage 
+Developing HomePage 
