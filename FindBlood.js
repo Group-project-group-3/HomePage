@@ -19,7 +19,7 @@ function FindBlood(){
             </div>
 
             <div>
-                <button>Find Blood</button>
+                <button>FIND BLOOD</button>
             </div>
             
         </form>
